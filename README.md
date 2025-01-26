@@ -6,6 +6,7 @@ This project is developed as part of Digital Skill Fair (DSF) 35.0 - Data Scienc
 The objective is to build a machine learning model for predicting whether a breast tumor is benign (0) or malignant (1) using Random Forest Algorithm. You can access the dataset through this link: https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer.
 
 **Goals:**
+
 The primary goal of this project is to build a machine learning model that can accurately predict whether a breast tumor is benign (non-cancerous) or malignant (cancerous) based on its characteristics.
 
 **Insights:**
