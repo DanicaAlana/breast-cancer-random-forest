@@ -19,4 +19,4 @@ The primary goal of this project is to build a machine learning model that can a
 
 This project demonstrates the potential of machine learning for breast cancer classification. By using features extracted from tumor characteristics, a Random Forest model can effectively distinguish between benign and malignant cases, with the accuracy of 96%. While the current model shows promising results, further development and validation are necessary to ensure its reliability and potential for clinical use.
 
-If you have any questions, suggestions or feedbacks, please do not hesitate to reach me out through Email or LinkedIn: rsgame99@gmail.com or https://linkedin.com/in/danica-alana-sjurjahady-85b124211/
+If you have any questions, suggestions or feedbacks, please do not hesitate to reach me out through Email or LinkedIn: sjurjahady29@gmail.com or https://www.linkedin.com/in/danicaas
